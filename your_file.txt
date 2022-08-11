@@ -1,3 +1,4 @@
 Hi
 feature
 conflict master
+merge feature conflict
